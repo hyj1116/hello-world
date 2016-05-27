@@ -1,2 +1,3 @@
 # hello-world
-Practice to know how to use GitHub
+
+Hi, this is the txt file used to know how to make a commit.
